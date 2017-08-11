@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello dan2]]></title>
+    <url>%2F2017%2F08%2F07%2Ftest%2F</url>
+    <content type="text"><![CDATA[安装：1、python 安装pywin32 https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win-amd64-py2.7.exe/download2、AutoItLibrary： pip install AutoItLibrary 备注：64位需要安装autoit3 实例引用：Send：123456send &#123;DOWN&#125;sleep 1send &#123;DOWN&#125;sleep 1send &#123;ENTER&#125;#Focus id=jslet12 定位光标 备注：使用需要先定位光标按键表：http://www.jb51.net/shouce/autoit/AutoIt_CN/html/appendix/SendKeys.htm参考：http://www.cnblogs.com/yu2000/p/4413966.html]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello dan]]></title>
+    <url>%2F2017%2F08%2F07%2Ftest1%2F</url>
+    <content type="text"><![CDATA[title: Hello dan安装：1、python 安装pywin32 https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win-amd64-py2.7.exe/download2、AutoItLibrary： pip install AutoItLibrary备注：64位需要安装autoit3 实例引用：Send：123456send &#123;DOWN&#125;sleep 1send &#123;DOWN&#125;sleep 1send &#123;ENTER&#125;#Focus id=jslet12 定位光标 备注：使用需要先定位光标按键表：http://www.jb51.net/shouce/autoit/AutoIt_CN/html/appendix/SendKeys.htm参考：http://www.cnblogs.com/yu2000/p/4413966.html]]></content>
+      <categories>
+        <category>testdan</category>
+      </categories>
+      <tags>
+        <tag>dan</tag>
+        <tag>lala</tag>
+      </tags>
+  </entry>
+</search>
